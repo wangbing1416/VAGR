@@ -1,4 +1,4 @@
-# C3DA
+# VAGR
 
 Code and datasets of our paper “Aspect-based Sentiment Analysis with Attention-assisted Graph
 and Variational Sentence Representation”
