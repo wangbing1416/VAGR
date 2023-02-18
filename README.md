@@ -46,6 +46,25 @@ Logs are saved under `VAGR/VAGR/log`
 The code and datasets in this repository are based on [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) and [CDT_ABSA](https://github.com/Guangzidetiaoyue/CDT_ABSA).
 
 
+## Cite
 
+```
+@article{DBLP:journals/kbs/FengWYO22,
+  author    = {Shi Feng and
+               Bing Wang and
+               Zhiyao Yang and
+               Jihong Ouyang},
+  title     = {Aspect-based sentiment analysis with attention-assisted graph and variational sentence representation},
+  journal   = {Knowledge-Based Systems},
+  volume    = {258},
+  pages     = {109975},
+  year      = {2022},
+  url       = {https://doi.org/10.1016/j.knosys.2022.109975},
+  doi       = {10.1016/j.knosys.2022.109975},
+  timestamp = {Wed, 16 Nov 2022 21:55:11 +0100},
+  biburl    = {https://dblp.org/rec/journals/kbs/FengWYO22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 
