@@ -49,11 +49,8 @@ The code and datasets in this repository are based on [ABSA-PyTorch](https://git
 ## Cite
 
 ```
-@article{DBLP:journals/kbs/FengWYO22,
-  author    = {Shi Feng and
-               Bing Wang and
-               Zhiyao Yang and
-               Jihong Ouyang},
+@article{feng2022aspect,
+  author    = {Shi Feng and Bing Wang and Zhiyao Yang and Jihong Ouyang},
   title     = {Aspect-based sentiment analysis with attention-assisted graph and variational sentence representation},
   journal   = {Knowledge-Based Systems},
   volume    = {258},
