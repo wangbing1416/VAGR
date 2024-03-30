@@ -1,10 +1,3 @@
-'''
-Description: 
-version: 
-Author: chenhao
-Date: 2021-06-09 14:17:37
-'''
-
 import sys
 
 sys.path.append(".")
