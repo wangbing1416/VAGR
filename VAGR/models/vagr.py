@@ -14,7 +14,7 @@ from tree import head_to_tree, tree_to_adj
 from .VL import TextVAE
 
 
-class DualGCNClassifier(nn.Module):
+class VAGRClassifier(nn.Module):
     def __init__(self, embedding_matrix, opt, config):
         super().__init__()
         in_dim = opt.hidden_dim
